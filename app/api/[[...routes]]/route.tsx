@@ -31,7 +31,7 @@ app.frame('/', (c) => {
   return c.res({
     image: 'https://i.postimg.cc/d1yk2X2N/TOKEN2049.jpg',
     intents: [
-      <Button.Link href = 'https://meetings.hubspot.com/tomer-sharoni/meet-addressable-at-token2049-24-singapore?uuid=f9895b17-13c9-412f-bf84-da5f45998686'>Meet Up With Sharoni</Button.Link>,
+      <Button.Link href = 'https://meetings.hubspot.com/tomer-sharoni/meet-addressable-at-token2049-24-singapore?uuid=f9895b17-13c9-412f-bf84-da5f45998686'>Meet Up With Sharoni 💌</Button.Link>,
     ],
   })
 })
